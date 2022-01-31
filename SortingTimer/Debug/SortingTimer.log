@@ -1,0 +1,3 @@
+﻿  SortingTimer.cpp
+C:\Users\joene\source\repos\SortingTimer\SortingTimer\SortingTimer.cpp(104,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SortingTimer.vcxproj -> C:\Users\joene\source\repos\SortingTimer\Debug\SortingTimer.exe
